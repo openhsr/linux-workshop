@@ -4,9 +4,10 @@ Im Installationskurs helfen Linux experten, bei der Installation des Betriebssys
 auch das Vorbereiten für den Studien Alltag mit (Skripte-Server, Listen mit Empfohlenen alternativ Programmen, …).
 
 ## Ablauf
-* Vorstellen des Vereins
-* Whats Linux
-* Installation
+* Kurze Intro open\HSR
+* Linux, Bahnhof?
+* Aufzeigen Installationsprozess
+* Installation mit Helfern
 
 ## open\HSR
 ### Unsere Ziele
@@ -25,14 +26,19 @@ Der open\HSR ist ein Unterverein des VSHSR (Verein der Studierenden an der HSR).
 
 ## LINUX
 
-Bitte ergänzen!
+Bitte ergänzen:
+
+- Name "Linux"
+- Open Source Kernel (inkl. Kernel/OS/Betriebssystem vs. Distribution)
+- Intro Ubuntu
 
 ## Installation
 
-Wichtig: Wir übernehen keine Haftung für den Verlust von Daten oder ... (Was auch immer alles Passieren kann) Wir gehen davon aus,
-dass Sie ihre Daten bereits extern gesichert haben!
+Wichtig: Wir geben uns sehr Mühe, dich durch eine Problemfreie Installation zu leiten - aber Fehler können leider immer passieren.
+Wir übernehen daher keine Haftung für den Verlust von Daten usw.
+Wir gehen davon aus, dass du deine Daten bereits extern gesichert hast!
 
-Jeder kann nun der Ausgeteilten Anleitung folgen und bei fragen werden unsere Helfer zu euch an den Platz kommen.
+Jeder kann nun der ausgeteilten Anleitung folgen und bei fragen werden unsere Helfer zu euch an den Platz kommen.
 
 
 
