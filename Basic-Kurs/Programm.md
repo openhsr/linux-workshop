@@ -10,10 +10,12 @@ erlernt. Anschliessend sollte der Umgang mit Linux kein Problem mehr sein.
 * Gnome Desktop Environment
 * Wichtige unterschiede zu Windows
 * Hilfe holen
-* Daten Managen
-* Software Installiere
-* Prozesse
-* Benutzerrechte
+* Command Line
+  * Bash
+  * Daten Managen
+  * Prozesse
+  * Benutzerrechte
+  * Software Installieren
 * Einrichten Software für HSR
 
 ## Einführung Linux
