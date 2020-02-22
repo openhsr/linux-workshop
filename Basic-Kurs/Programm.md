@@ -6,15 +6,15 @@ Eigenschaften von Linux präsentiert und anschliessend interaktiv die wichtigste
 erlernt. Anschliessend sollte der Umgang mit Linux kein Problem mehr sein.
 
 ## Ablauf
-* Einführung Linux
-* Benutzer Oberfläche
-* Hilfe
+* Deep-Dive Linux Universe
+* Gnome Desktop Environment
+* Wichtige unterschiede zu Windows
+* Hilfe holen
 * Daten Managen
-* Software Installieren
+* Software Installiere
 * Prozesse
 * Benutzerrechte
-* Umgebungsvariablen
-* Vi
+* Einrichten Software für HSR
 
 ## Einführung Linux
 
