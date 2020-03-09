@@ -6,7 +6,7 @@ marp: true
 
 # Willkommen im Linux Installations Kurs
 
-![Linux](./images/225px-Tux.svg.png)
+![Linux](./Images/225px-Tux.svg.png)
 
 ---
 
